@@ -2,11 +2,11 @@
 Performing analysis on Kickstarter data to uncover trends
 
 # Outcomes based on Goal
-	![Goals]()
+	![Goals]("Outcomes based on Goal.png")
 	
   
   # Outcomes based on launch dates
-	![Date](Outcomes based on launch dates.png)
+	![Date]("Outcomes based on launch dates.png")
   
   
   

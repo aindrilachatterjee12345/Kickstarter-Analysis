@@ -15,5 +15,5 @@ May is the most amount of success for starting the Theater Kick Starter campaign
   
 
 # Outcomes based on Parent Category
-![goals](Outcomes%20parent%20category.png)
+![goals](Outcome%20parent%20category.png)
 The parent category Theater has the most successful campaigns,but we see the the maximum failure in that category too. Music looks promising for the campaign.Less failure which is lucrative.If we consider Music it may bring more success than going for the theater.

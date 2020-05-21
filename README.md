@@ -13,3 +13,7 @@ Setting a goal of less than $5,000 is the most successful Play Kick Starters amo
 May is the most amount of success for starting the Theater Kick Starter campaigns.So starting in May would be beneficial and increase chances of success. June and July have the second and third most successful Kick Starter campaigns out of the remaining months. So Summer is probably the best time. The winter months are the worst months to start a Kick Starter campaign. People are most likely saving and spending for the holidays including Christmas and are less likely to spend money on a Kick Starter campaign.
   
   
+
+# Outcomes based on Parent Category
+![goals](Outcomes%20parent%20category.png)
+The parent category Theater has the most successful campaigns,but we see the the maximum failure in that category too. Music looks promising for the campaign.Less failure which is lucrative.If we consider Music it may bring more success than going for the theater.

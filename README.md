@@ -3,7 +3,7 @@ Performing analysis on Kickstarter data to uncover trends
 
 # Outcomes based on Goal
 ![goals](Outcomes%20based%20on%20Goal.png)
-Most successful Play Kick Starters set a goal of less than $5,000. Attaining this goal leads to a success rate of over 72%. $35,000 to $44,999 has a success rate of over 65%. Goals of $20,000 to $34,999 and more than $45,000 have a success rate of less than 50%, with $45,000 to $49,999 having a 0% success rate. I would focus on the lower amount goals as they bring the most success. 
+Setting a goal of less than $5,000 is the most successful Play Kick Starters amongst all. Attaining this goal leads to a success rate of over 72%. $35,000 to $44,999 has a success rate of over 65%. Goals of $20,000 to $34,999 and more than $45,000 have a success rate of less than 50%, with $45,000 to $49,999 having a 0% success rate. I would focus on the lower amount goals as they bring the most success. 
 
 	
 	
